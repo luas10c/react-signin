@@ -1,0 +1,8 @@
+{
+  "name": "react-signin",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
